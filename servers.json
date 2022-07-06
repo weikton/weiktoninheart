@@ -1,9 +1,9 @@
 [
     {
       "color": "FF0000",
-      "dopname": "(ОБТ)",
+      "dopname": "(wkt)",
       "maxonline": 1000,
-      "name": "MOSCOW",
-      "online": 367
+      "name": "Tutor",
+      "online": 0
     }
   ]
